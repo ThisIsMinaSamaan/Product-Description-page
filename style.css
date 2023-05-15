@@ -1,0 +1,20 @@
+h1{
+    color: blueviolet;
+    margin-bottom: 0px;
+}
+
+hr{
+    margin-bottom: 2rem;
+}
+
+img{
+    border: 1px blueviolet solid;
+    width: 30%;
+    height: 30%;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
