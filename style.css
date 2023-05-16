@@ -1,6 +1,7 @@
 h1{
     color: blueviolet;
     margin-bottom: 0px;
+    border-bottom: 1px solid black;
 }
 
 hr{
